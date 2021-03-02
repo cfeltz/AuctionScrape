@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: AuctionScrape
+## Author: Christopher Feltz
+## Version: 0.0
+
+AuctionScrape.lua
